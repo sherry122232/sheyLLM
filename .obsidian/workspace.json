@@ -1,0 +1,534 @@
+{
+  "main": {
+    "id": "3fbff83275dca901",
+    "type": "split",
+    "children": [
+      {
+        "id": "221978a3d45916ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ccfaa0fb8664ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - LLM学习地图/1.1 - LLM学习地图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 - LLM学习地图"
+            }
+          },
+          {
+            "id": "e86041b5bf654842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.3 - LoRA and QLoRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 - LoRA and QLoRA"
+            }
+          },
+          {
+            "id": "7525cd70cea914b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.1 - 大模型资源分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 - 大模型资源分析"
+            }
+          },
+          {
+            "id": "08cf0dfee5b37744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.1 - 大模型资源分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 - 大模型资源分析"
+            }
+          },
+          {
+            "id": "6e2e96f3826b756b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.3 - LoRA and QLoRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 - LoRA and QLoRA"
+            }
+          },
+          {
+            "id": "e872581019ce4c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.4 - 强化学习的演变.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4 - 强化学习的演变"
+            }
+          },
+          {
+            "id": "358c33f4caa7f2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.5 - Verl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5 - Verl"
+            }
+          },
+          {
+            "id": "aae8bf15698df00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - LLM学习地图/1.1 - LLM学习地图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 - LLM学习地图"
+            }
+          },
+          {
+            "id": "317625ecf21c3fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - LLM学习地图/1.2 - tokenizer分词器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 - tokenizer分词器"
+            }
+          },
+          {
+            "id": "450b10efeb07227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - 代码手撕系列/手撕ViT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "手撕ViT"
+            }
+          },
+          {
+            "id": "23fbb7636b5405fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - 代码手撕系列/手撕ViT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "手撕ViT"
+            }
+          },
+          {
+            "id": "e055e0adacf3ab5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - LLM学习地图/1.3 - Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 - Transformer"
+            }
+          },
+          {
+            "id": "6f19ae8b51d39ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - 实践经验/4.1 - OOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 - OOM"
+            }
+          },
+          {
+            "id": "b26c19ef14644d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - LLM学习地图/1.5 - Scaling Law.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5 - Scaling Law"
+            }
+          },
+          {
+            "id": "310407c9dd58b370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - 实践经验/4.2 - 技术报告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 - 技术报告"
+            }
+          },
+          {
+            "id": "5e99c6f0ac134294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - 实践经验/4.2 - 技术报告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 - 技术报告"
+            }
+          },
+          {
+            "id": "55ce39cf71b54d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - 实践经验/4.3 - profiling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 - profiling"
+            }
+          },
+          {
+            "id": "e6eb6c2f7359cb64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.7 - vllm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.7 - vllm"
+            }
+          },
+          {
+            "id": "d42cce039d8e8029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/2.5 - 强化学习的演变.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5 - 强化学习的演变"
+            }
+          },
+          {
+            "id": "724862e9f02f2f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - 概念笔记/vllm - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vllm - 1"
+            }
+          },
+          {
+            "id": "5fab6df33256fcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SFT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SFT"
+            }
+          }
+        ],
+        "currentTab": 20
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39792c451d6a9f58",
+    "type": "split",
+    "children": [
+      {
+        "id": "c44830b127bfc134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf52c8a15a28f43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3f2c96d124704e8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4aa6d4ef680ef97c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "b07fce8182579221",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea23cf96eb7fd397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbed927dabf430e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - 概念笔记/2.2 - LLM并行策略.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.2 - LLM并行策略 的反向链接列表"
+            }
+          },
+          {
+            "id": "eb9fac1a9046213a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - 概念笔记/2.2 - LLM并行策略.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.2 - LLM并行策略 的出链列表"
+            }
+          },
+          {
+            "id": "202a1cd2a2a4db71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6ca27b9f758b11d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "aaf40c4849c3ddd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SFT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SFT 的大纲"
+            }
+          },
+          {
+            "id": "95565852fc72a69d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "fbe7ed341850a9be",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5fab6df33256fcd8",
+  "lastOpenFiles": [
+    "02 - 概念笔记/vllm - 1.md",
+    "SFT.md",
+    "02 - 概念笔记/2.2 - LLM并行策略/2.3 - LLM 并行策略 2.md",
+    "03 - 代码手撕系列/手撕注意力.md",
+    "03 - 代码手撕系列/手撕ViT.md",
+    "03 - 代码手撕系列/手撕MoE layer.md",
+    "03 - 代码手撕系列/手撕Megatron TP.md",
+    "01 - LLM学习地图/1.3 - Transformer.md",
+    "02 - 概念笔记/2.5 - 强化学习的演变.md",
+    "02 - 概念笔记/2.7 - vllm.md",
+    "Pasted image 20260605020950.png",
+    "02 - 概念笔记/2.2 - LLM并行策略/2.3 - LLM并行策略.md",
+    "02 - 概念笔记/2.3 - 大模型资源分析.md",
+    "01 - LLM学习地图/1.4 - GPU结构相关.md",
+    "01 - LLM学习地图/1.5 - Scaling Law.md",
+    "04 - 实践经验/4.2 - 技术报告.md",
+    "02 - 概念笔记/2.1 - 强化学习的演变/2.1.3 - PPO 2.md",
+    "02 - 概念笔记/2.1 - 强化学习的演变/2.1.2 - PPO 1.md",
+    "02 - 概念笔记/2.1 - 强化学习的演变/2.1.1 - PPO.md",
+    "02 - 概念笔记/2.4 - LoRA and QLoRA.md",
+    "02 - 概念笔记/2.2 - LLM并行策略",
+    "02 - 概念笔记/2.1 - 强化学习的演变",
+    "02 - 概念笔记/2.8 - 训练后端的对比.md",
+    "04 - 实践经验/4.5 - 补充profiling.md",
+    "04 - 实践经验/4.3 - profiling.md",
+    "04 - 实践经验/4.4 - link.md",
+    "04 - 实践经验/4.1 - OOM.md",
+    "未命名 1.base",
+    "01 - LLM学习地图/1.2 - tokenizer分词器.md",
+    "01 - LLM学习地图/1.6 - 集合通信.md",
+    "Pasted image 20260531143756.png",
+    "未命名.base",
+    "Pasted image 20260603112231.png",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Pasted image 20260602203651.png",
+    "04 - 实践经验",
+    "Pasted image 20260601172146.png",
+    "03 - 代码手撕系列",
+    "01 - LLM学习地图"
+  ]
+}
