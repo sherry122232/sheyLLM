@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SFT.md",
+                "file": "02 - 概念笔记/vllm - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SFT"
+              "title": "vllm - 1"
             }
           }
         ],
@@ -437,13 +437,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SFT.md",
+                "file": "02 - 概念笔记/vllm - 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SFT 的大纲"
+              "title": "vllm - 1 的大纲"
             }
           },
           {
@@ -467,12 +467,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -488,10 +487,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fab6df33256fcd8",
+  "active": "aaf40c4849c3ddd3",
   "lastOpenFiles": [
-    "02 - 概念笔记/vllm - 1.md",
+    "02 - 概念笔记/2.7 - vllm.md",
     "SFT.md",
+    "02 - 概念笔记/vllm - 1.md",
     "02 - 概念笔记/2.2 - LLM并行策略/2.3 - LLM 并行策略 2.md",
     "03 - 代码手撕系列/手撕注意力.md",
     "03 - 代码手撕系列/手撕ViT.md",
@@ -499,7 +499,6 @@
     "03 - 代码手撕系列/手撕Megatron TP.md",
     "01 - LLM学习地图/1.3 - Transformer.md",
     "02 - 概念笔记/2.5 - 强化学习的演变.md",
-    "02 - 概念笔记/2.7 - vllm.md",
     "Pasted image 20260605020950.png",
     "02 - 概念笔记/2.2 - LLM并行策略/2.3 - LLM并行策略.md",
     "02 - 概念笔记/2.3 - 大模型资源分析.md",
