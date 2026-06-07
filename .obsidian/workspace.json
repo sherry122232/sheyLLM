@@ -516,8 +516,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93d56d46485e7a1d",
+  "active": "bcf52c8a15a28f43",
   "lastOpenFiles": [
+    "未命名 2.base",
+    "未命名 3.base",
     "1.8 - MOE.md",
     "01 - LLM学习地图/1.7 - 注意力机制.md",
     "02 - 概念笔记/vllm - 1.md",
@@ -546,7 +548,6 @@
     "04 - 实践经验/4.5 - 补充profiling.md",
     "04 - 实践经验/4.3 - profiling.md",
     "04 - 实践经验/4.4 - link.md",
-    "04 - 实践经验/4.1 - OOM.md",
     "未命名 1.base",
     "Pasted image 20260531143756.png",
     "未命名.base",
@@ -557,7 +558,6 @@
     "Pasted image 20260602203651.png",
     "04 - 实践经验",
     "Pasted image 20260601172146.png",
-    "03 - 代码手撕系列",
-    "01 - LLM学习地图"
+    "03 - 代码手撕系列"
   ]
 }
