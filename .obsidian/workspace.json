@@ -366,12 +366,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - 代码手撕系列/手撕Megatron TP.md",
+                "file": "03 - 代码手撕系列/手撕注意力.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "手撕Megatron TP"
+              "title": "手撕注意力"
             }
           }
         ],
@@ -563,6 +563,7 @@
   },
   "active": "fc2f4946368f9c39",
   "lastOpenFiles": [
+    "03 - 代码手撕系列/手撕Megatron TP.md",
     "03 - 代码手撕系列/手撕注意力.md",
     "04 - 实践经验/4.6 - 实践观测指标.md",
     "04 - 实践经验/4.1 - OOM.md",
@@ -582,7 +583,6 @@
     "02 - 概念笔记/2.7 - vllm.md",
     "02 - 概念笔记/2.8 - 训练后端的对比.md",
     "02 - 概念笔记/vllm - 1.md",
-    "03 - 代码手撕系列/手撕Megatron TP.md",
     "03 - 代码手撕系列/手撕MoE layer.md",
     "03 - 代码手撕系列/手撕Softmax.md",
     "01 - LLM学习地图/1.1 - LLM学习地图.md",
